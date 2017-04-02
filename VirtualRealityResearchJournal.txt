@@ -1,0 +1,30 @@
+Design of Eyegaze-sensitive Virtual Reality Based Social Communication Platform for Individuals with Autism x
+http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/stamp/stamp.jsp?tp=&arnumber=7877229
+
+notes:
+Uses virtual reality to create realistic imagery to represent social settings. Create real world scenarios specific to one's needs and keep it realistic. 
+Specifically this software could be used to recreate someones facial expressions to teach children who have difficulty reading people's faces to better understand others based on their facial expressions.
+Paired with eye tracking techniques they are able to aquire data on someones reactions (pupil diamter, blink rate, fixation duration towards certain "people" (simulated person).
+
+Tourists' Experience of Virtual Reality Applications x
+Study on the lake districts use of virtual reality. Uses VR to let people fly over the lake district's as if they were a bird flying over the lake district.
+Study found that "tourists welcome the opportunity to experience destinations virtually in order to get a better understanding of destintaion's offerings." 
+"Sound was hereby an important part of the overall experience and a crucial element of being fully immersed."
+"Destination managers are advised to implement VR strategies into the marketing plan for the future."
+
+Delay Oriented VR Mode WLAN for Efficient Wireless Multi-User Virtual Reality Device x
+Study on how plausible VR systems which connect to home routers are. 
+Simulations show that it is plausable to make a multiuser solution to VR over wireless. However only simulations were done and no real world example of this is currently avaliable.
+
+Real-time and precise insect flight control system based on virtual reality x
+Uses VR to simulate flight of insects. Being used to find the correct simulation algorithms to implemnt on real cyborg insects currently in development.
+Does experiments on bees for data about flight. Simulates it in virtual reality to show that it works. Can then be implemented into cyborg bees.
+
+Shifty: A Weight-Shifting Dynamic Passive Haptic Proxy to Enhance Object Perception in Virtual Reality
+A design for a rod-shaped VR proxy object/VR controller which has a moving weight. The moving weight allows it to change it's center of mass to represent different objects in a VR simulation. 
+By moving the weight up the holder is forced to apply more force to keep it in the same positoin, making it seem as though the object is heavier.
+Conclusion shows that their method of simulating weight is currently the most effective one avaliable.
+
+Office Diva x 
+"audio visual art installation" of a computer controlled character living in a small space whilst compulsivley talking. 
+Used to tell the story of a receptionist working at a therapy centre as she slowly goes mad. 
